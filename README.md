@@ -1,2 +1,3 @@
 # Zkouska
-pojištění basic
+Pojištění Basic
+JavaScript
